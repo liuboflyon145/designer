@@ -1,0 +1,16 @@
+/target
+/resources
+/lib
+/classes
+/checkouts
+/tmp
+pom.xml
+*.jar
+*.class
+*.log
+/.lein-*
+/.env
+.nrepl-port
+.DS_Store
+/.idea
+/resources
